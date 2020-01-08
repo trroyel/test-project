@@ -1,2 +1,6 @@
 user_profile
 user_profile2
+
+user_settings
+
+user_settings_3
